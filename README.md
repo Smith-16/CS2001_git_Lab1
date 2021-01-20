@@ -521,4 +521,4 @@ Student ID | Movie | Year of Release
 2010365|Inception| 2010
 2010365|Interstellar|2014
 2010365|Tenet|2020
-2010365|The Prestige|2006
+2010365|The Prestige|2005
