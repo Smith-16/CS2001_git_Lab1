@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+2010365|Inception|2010
+2010365|Interstellar|2014
+2010365|The Prestige|2006
+2010365|Tenet|2020
+2010365|The Matrix|1999
